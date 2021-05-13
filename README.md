@@ -21,7 +21,7 @@ sudo apt update
 sudo apt upgrade
 sudo apt install package1 package2
 ```
-##Installer
+## Installer
 
 ## Running
 Once installed you can run the program with the following command
